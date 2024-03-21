@@ -30,6 +30,12 @@ main {
   align-items: center;
 }
 
+.username {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .instapost-profile-image {
   border-radius: 50%;
   width: 35px;
@@ -37,13 +43,12 @@ main {
 }
 
 .instapost-profile-name {
-  margin-top: 0.25rem;
   font-weight: 500;
   color: #262626;
 }
 .instapost-profile-blue-tick {
+  margin-top: 0.25rem;
   width: 12px;
-  margin-top: 0.7rem;
 }
 .instapost-setting {
   font-weight: bold;
