@@ -105,3 +105,6 @@ main {
 .instapost-comment-profile {
   font-weight: 600;
 }
+.instapost-comment-text {
+  display: inline;
+}
