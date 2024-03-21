@@ -12,6 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100dvh;
 }
 
 main {
@@ -72,4 +73,18 @@ main {
   right: 0;
   margin-right: 15px;
   margin-top: -40px;
+}
+.instapost-actions {
+  display: flex;
+  gap: 1.2rem;
+  margin: 0.5rem;
+  position: relative;
+}
+.instapost-actions img {
+  width: 20px;
+  height: 20px;
+}
+.instapost-actions-save {
+  position: absolute;
+  right: 0;
 }
