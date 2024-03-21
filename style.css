@@ -35,3 +35,9 @@ main {
   width: 35px;
   height: 32px;
 }
+
+.instapost-profile-name {
+  margin-top: 0.25rem;
+  font-weight: 500;
+  color: #262626;
+}
