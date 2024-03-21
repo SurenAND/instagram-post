@@ -30,7 +30,6 @@ main {
   vertical-align: middle;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .username {
