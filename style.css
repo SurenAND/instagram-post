@@ -53,3 +53,7 @@ main {
 .instapost-setting {
   font-weight: bold;
 }
+.instapost-post-image {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+}
