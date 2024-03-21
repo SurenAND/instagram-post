@@ -90,3 +90,8 @@ main {
   position: absolute;
   right: 0;
 }
+.instapost-view-counter {
+  padding: 0 9px;
+  margin: 0 0 8px 0;
+  font-weight: 600;
+}
