@@ -98,3 +98,7 @@ main {
 .instapost-comments {
   padding: 0 10px;
 }
+.instapost-comment {
+  margin-bottom: 4px;
+  padding: 0;
+}
