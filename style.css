@@ -108,3 +108,7 @@ main {
 .instapost-comment-text {
   display: inline;
 }
+.instapost-comment-text-more {
+  padding: 5px;
+  color: #888;
+}
