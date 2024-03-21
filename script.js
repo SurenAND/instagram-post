@@ -22,3 +22,14 @@ function handleLikeByDblClick() {
     }, 300);
   }
 }
+
+// save post
+const saveIcon = document.getElementById("save");
+
+// save by click on save icon
+saveIcon.addEventListener("click", handleSave);
+function handleSave() {
+  if (saveIcon.src.match("./assets/images/save-icon.svg")) {
+    saveIcon.src = "./assets/images/saved-icon.svg";
+  } else saveIcon.src = "./assets/images/save-icon.svg";
+}
